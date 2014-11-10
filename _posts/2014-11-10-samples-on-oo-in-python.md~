@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Sample on OO in Python"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
