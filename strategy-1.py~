@@ -1,0 +1,5 @@
+from strategy import strategy
+
+patient = strategy(instruments)
+def fun(row):
+	

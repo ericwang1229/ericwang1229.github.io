@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+FastBacktester
+==============
+
+A fast Python trading strategy backtesting platform based on pandas/matplotlib etc, supports multi-instruments strategies.
+=======
 HEAD
 # Jekyll-Bootstrap
 
@@ -43,3 +49,4 @@ The documentation website at <http://jekyllbootstrap.com> is maintained at https
 ericwang1229.github.io
 ======================
  f2bf73b47b8e1d51bf168dc5f5d970def13b048a
+>>>>>>> e942523f7729a3dac87bdf676fc3176b6a0a5944
